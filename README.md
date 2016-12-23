@@ -12,6 +12,12 @@ Suicide is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy halves every year
  - ~40 million total coins
+ - RPC port 8118
+ - P2P port 8119
+ - Block every 1 Min
+ - Block reward 10 SCD
+ - Difficulty retarget Every block
+ - Halving every ~500k blocks 
 
 License
 -------
